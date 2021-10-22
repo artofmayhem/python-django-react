@@ -20,7 +20,6 @@ Install with pip
 
     pip install websocket-server
 
-For coding details have a look at the [*server.py*](https://github.com/Pithikos/python-websocket-server/blob/master/server.py) example and the [API](https://github.com/Pithikos/python-websocket-server#api).
 
 
 Usage
